@@ -1,0 +1,161 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+    --primary: 221.2 83.2% 53.3%;
+    --primary-foreground: 210 40% 98%;
+    --secondary: 210 40% 96%;
+    --secondary-foreground: 222.2 84% 4.9%;
+    --muted: 210 40% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+    --accent: 210 40% 96%;
+    --accent-foreground: 222.2 84% 4.9%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 221.2 83.2% 53.3%;
+    --radius: 0.75rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217.2 91.2% 59.8%;
+    --primary-foreground: 222.2 84% 4.9%;
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 224.3 76.3% 94.0%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/5 backdrop-blur-xl border border-white/10 shadow-2xl;
+  }
+  
+  .text-gradient {
+    @apply bg-gradient-to-r from-indigo-400 via-purple-400 to-cyan-400 bg-clip-text text-transparent;
+  }
+  
+  .hover-lift {
+    @apply transition-all duration-300 hover:scale-105 hover:shadow-2xl;
+  }
+  
+  .btn-primary {
+    @apply bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-semibold rounded-xl px-6 py-3 shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed disabled:hover:scale-100;
+  }
+  
+  .btn-secondary {
+    @apply bg-white/10 backdrop-blur-sm border border-white/20 text-foreground font-medium rounded-xl px-6 py-3 hover:bg-white/20 transition-all duration-200;
+  }
+  
+  .input-field {
+    @apply w-full rounded-xl border border-white/20 bg-white/5 backdrop-blur-sm px-4 py-3 text-foreground placeholder:text-muted-foreground focus:outline-none focus:ring-2 focus:ring-primary/50 focus:border-primary/50 transition-all duration-200;
+  }
+  
+  .card-elevated {
+    @apply bg-card/80 backdrop-blur-xl rounded-2xl border border-white/10 p-6 shadow-2xl hover:shadow-3xl transition-all duration-300;
+  }
+  
+  .skeleton {
+    @apply animate-pulse bg-muted/50 rounded;
+  }
+  
+  .toast {
+    @apply fixed top-4 right-4 z-50 bg-card border border-border rounded-xl p-4 shadow-2xl backdrop-blur-xl;
+  }
+  
+  .empty-state {
+    @apply flex flex-col items-center justify-center py-16 text-center;
+  }
+  
+  .loading-spinner {
+    @apply animate-spin rounded-full border-2 border-muted border-t-primary;
+  }
+  
+  /* Enhanced Story Editor Themes */
+  .story-gradient-bg {
+    @apply bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50;
+  }
+  
+  .dark .story-gradient-bg {
+    @apply from-slate-900 via-slate-800 to-indigo-900;
+  }
+  
+  .message-user {
+    @apply bg-gradient-to-r from-indigo-500 to-purple-600 text-white shadow-indigo-200/50;
+  }
+  
+  .dark .message-user {
+    @apply shadow-indigo-900/50;
+  }
+  
+  .message-ai {
+    @apply bg-white text-slate-800 border-slate-200 shadow-slate-200/50;
+  }
+  
+  .dark .message-ai {
+    @apply bg-slate-800 text-slate-200 border-slate-700 shadow-slate-900/50;
+  }
+  
+  .sidebar-glass {
+    @apply bg-white/80 backdrop-blur-xl border-slate-200/50 shadow-xl;
+  }
+  
+  .dark .sidebar-glass {
+    @apply bg-slate-900/80 border-slate-700/50;
+  }
+  
+  .control-panel {
+    @apply bg-white/95 backdrop-blur-xl border-slate-200/50 shadow-2xl;
+  }
+  
+  .dark .control-panel {
+    @apply bg-slate-900/95 border-slate-700/50;
+  }
+}
+
+@layer utilities {
+  .shadow-3xl {
+    box-shadow: 0 35px 60px -12px rgba(0, 0, 0, 0.25), 0 0 0 1px rgba(255, 255, 255, 0.05);
+  }
+  
+  .text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .backdrop-blur-3xl {
+    backdrop-filter: blur(64px);
+  }
+}

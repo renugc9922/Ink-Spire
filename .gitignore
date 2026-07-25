@@ -1,0 +1,55 @@
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Dependency folders
+**/node_modules/
+**/.pnpm-store/
+**/.npm/
+
+# Python environments and caches
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.ipynb_checkpoints/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build artifacts and temporary files
+**/dist/
+**/build/
+**/.vite/
+**/.cache/
+**/coverage/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Generated model/cache output
+fine_tuning/merged_model/
+fine_tuning/outputs/
+fine_tuning/model_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+# Large datasets
+Dataset/
+
+# Training data
+fine_tuning/train_data.jsonl
+fine_tuning/valid_data.jsonl
+
+# Hugging Face / Transformers
+*.safetensors
+.git_backup/

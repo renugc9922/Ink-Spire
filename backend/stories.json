@@ -1,0 +1,304 @@
+[
+  {
+    "id": "premise-1770959804188",
+    "title": "The Missing Document",
+    "segments": [
+      {
+        "id": "premise-1770959804188",
+        "author": "user",
+        "content": "It is Rahul's first day at work",
+        "imageUrl": null
+      },
+      {
+        "id": "1770959813553",
+        "author": "ai",
+        "content": "He walks through the office, his mind racing as he navigates the labyrinth of paperwork and deadlines that await him. The clock ticks away, each second more agonizing than the last, but no matter how long it takes, he can't shake off the feeling that something is amiss.\nRahul finally finds himself in front of his desk, where a stack of papers awaits him. He stares blankly at them for a moment, before his eyes dart towards the screen beside him. There, sitting on top of the pile, is the name of one of the most important people in the company - his boss. And yet... there was nothing wrong with the computer screen or the software itself? Why did he need to wait so long to find out?\nAs he looks down at the list of tasks before him, his heart races with panic. He needs to make sure everything is done correctly, without any mistakes. But why would anyone be working late at night when they should be spending time with their family? Wasn't that supposed to be a day off? What could have possibly gone wrong?\nAs he struggles to compose himself, he notices that the clock has stopped ticking altogether. His boss had been working late into the night, and now he has returned home. He",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": null,
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1770960395047
+  },
+  {
+    "id": "premise-1770960760750",
+    "title": "Error Fixing Day",
+    "segments": [
+      {
+        "id": "premise-1770960760750",
+        "author": "user",
+        "content": "It was Rahul's first day at office",
+        "imageUrl": null
+      },
+      {
+        "id": "1770960769216",
+        "author": "ai",
+        "content": "Rahul stepped into his cubicle, feeling the coolness of the room as he opened his file. He knew it was his last day here, but for now, everything was routine. The workbench hummed softly to life and the desk lamp flickered, illuminating the words on the page before him. \nAs he looked down at the paper in front of him, he saw an error in a certain section. The line between two sentences was not where it should be, and yet that was all that stood out in his view. \nHe sighed deeply, knowing this would happen again soon. As he reached for his pen, he found himself looking up from the paper, seeing a single word stuck out of the margin. \"Sorry,\" he said, then turned away from the paper and sat back down in his chair.\nHours passed, and as the sun rose over the office building, so did the sadness in Rahul's eyes. He felt like a failure, a fraud. His heart was heavy, and as he walked out of the office, he could hear the sound of footsteps behind him. \nBut as he turned around, he saw the same woman standing there, her face full of worry. She took off her coat and came towards him, giving him",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGFtcEJlYW0iIHgxPSIwLjUiIHkxPSIwIiB4Mj0iMC41IiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmY5ZGIiIHN0b3Atb3BhY2l0eT0iMC42IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmY5ZGIiIHN0b3Atb3BhY2l0eT0iMCIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJldGhlcmVhbEdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzIiByZXN1bHQ9ImJsdXIiIC8+CiAgICAgIDxmZUNvbXBvc2l0ZSBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJibHVyIiBvcGVyYXRvcj0ib3ZlciIgLz4KICAgIDwvZmlsdGVyPgogIDwvZGVmcz4KICA8IS0tIEJhY2tncm91bmQgLS0+CiAgPHJlY3Qgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MzIiIGZpbGw9IiMwYTBmMWQiIC8+CiAgPCEtLSBQZXJzcGVjdGl2ZSBXYWxscyAtLT4KICA8cGF0aCBkPSJNMCAwIEwyMjAgMTAwIFYzMzIgTDAgNDMyIFoiIGZpbGw9IiMxMzFhMmUiIC8+CiAgPHBhdGggZD0iTTIyMCAxMDAgSDc2OCBWMzMyIEgyMjAgWiIgZmlsbD0iIzFjMjU0MSIgLz4KICA8IS0tIERlc2sgU3VyZmFjZSAtLT4KICA8cGF0aCBkPSJNMjIwIDI5MCBINzY4IFY0MzIgSDIyMCBaIiBmaWxsPSIjMGQxMzIxIiAvPgogIDwhLS0gV29ya2JlbmNoIEh1bSAoQ3lhbiBsaWdodCBzdHJpcCkgLS0+CiAgPHJlY3QgeD0iMjIwIiB5PSIyOTAiIHdpZHRoPSI1NDgiIGhlaWdodD0iMyIgZmlsbD0iIzRjYzlmMCIgZmlsdGVyPSJ1cmwoI2V0aGVyZWFsR2xvdykiIG9wYWNpdHk9IjAuNyIgLz4KICA8IS0tIFJhaHVsJ3MgU2lsaG91ZXR0ZSAtLT4KICA8cGF0aCBkPSJNNDAgNDMyIFEgNDAgMzgwIDkwIDM0MCBUIDEzMCAyODAgUSAxMzAgMjUwIDExMCAyNDAgUSA5MCAyNDAgODUgMjcwIFEgODUgMzAwIDEyMCAzMjAgTCAxMzAgNDMyIFoiIGZpbGw9IiMwMjA0MGEiIC8+CiAgPCEtLSBUaGUgRmlsZSAtLT4KICA8cGF0aCBkPSJNMzIwIDMxMCBMNDgwIDMwNSBMNTAwIDM2MCBMMzMwIDM3MCBaIiBmaWxsPSIjZTJlOGYwIiAvPgogIDwhLS0gR2xvd2luZyBXb3JkcyBvbiBQYWdlIC0tPgogIDxwYXRoIGQ9Ik0zNDAgMzI1IEg0NjAgTTM0MiAzMzUgSDQ2NSBNMzQ0IDM0NSBINDQwIiBzdHJva2U9IiM0MzYxZWUiIHN0cm9rZS13aWR0aD0iMiIgZmlsdGVyPSJ1cmwoI2V0aGVyZWFsR2xvdykiIG9wYWNpdHk9IjAuOCIgLz4KICA8IS0tIERlc2sgTGFtcCBTdHJ1Y3R1cmUgLS0+CiAgPHBhdGggZD0iTTY4MCAyOTAgTDY4MCAxNjAgTDYwMCAxMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzMzNDE1NSIgc3Ryb2tlLXdpZHRoPSI2IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CiAgPHBhdGggZD0iTTU4MCAxMTUgTDYyMCAxNDUgTDYwNSAxNjAgTDU2NSAxMzAgWiIgZmlsbD0iIzQ3NTU2OSIgLz4KICA8IS0tIExhbXAgTGlnaHQgQmVhbSAtLT4KICA8cGF0aCBkPSJNNTkyIDEzOCBMMzAwIDM4MCBMNTUwIDQwMCBaIiBmaWxsPSJ1cmwoI2xhbXBCZWFtKSIgLz4KICA8IS0tIEZhbnRhc3kgRWxlbWVudHMgKFN1c3BlbmRlZCBNb3RlcykgLS0+CiAgPGNpcmNsZSBjeD0iMzUwIiBjeT0iMjUwIiByPSIxLjUiIGZpbGw9IiM0Y2M5ZjAiIGZpbHRlcj0idXJsKCNldGhlcmVhbEdsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC4yOzE7MC4yIiBkdXI9IjNzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8Y2lyY2xlIGN4PSI0ODAiIGN5PSIyMDAiIHI9IjEiIGZpbGw9IiM0Y2M5ZjAiIGZpbHRlcj0idXJsKCNldGhlcmVhbEdsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMTswLjI7MSIgZHVyPSI0cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+CiAgPC9jaXJjbGU+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMTUwIiByPSIxLjIiIGZpbGw9IiM0Y2M5ZjAiIGZpbHRlcj0idXJsKCNldGhlcmVhbEdsb3cpIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIHZhbHVlcz0iMC41OzE7MC41IiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICA8L2NpcmNsZT4KICA8IS0tIEZsb29yIFNoYWRvdyAtLT4KICA8cmVjdCB5PSI0MjAiIHdpZHRoPSI3NjgiIGhlaWdodD0iMTIiIGZpbGw9IiMwMjA0MGEiIG9wYWNpdHk9IjAuNSIgLz4KPC9zdmc+",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1770960895163
+  },
+  {
+    "id": "premise-1770964758474",
+    "title": "Anils First Day at School",
+    "segments": [
+      {
+        "id": "premise-1770964758474",
+        "author": "user",
+        "content": "It was Anil's first day at school, a new school with new opportunities",
+        "imageUrl": null
+      },
+      {
+        "id": "1770964767710",
+        "author": "ai",
+        "content": "He found himself looking around nervously, wondering if he had made the right choice by joining the new class. The others were all quiet and studious, their eyes locked on their textbooks or their computers. He felt out of place, like an outsider among his peers.\nHis head hurt as he sat down to write a note for the teacher. She looked up from her book, her eyes widening as she noticed him. \"Hello, nice to meet you,\" she said, her voice soft but firm. \"I'm sorry that I can't take you along to the library today, but we have a special project coming up.\"\nAnil took another sip of his coffee, feeling the warmth spreading through his body. He had been looking forward to this opportunity since he arrived last week. But now it seemed strange to be there alone after so many hours of preparation.\n\"Thank you, Ms. Johnson,\" he whispered, hoping she would understand what he meant. \"It will be great to learn from my mistakes. Thank you again for the experience.\"\nShe smiled warmly, shaking her head. \"No problem, Mr. Anil. You're welcome to join us any time.\"\nThe rest of the day passed quickly, filled with laughter and chatter. Anil watched as his classmates",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8IS0tIEJhY2tncm91bmQ6IERlZXAsIGRhcmsgdm9pZCBvZiB0aGUgY2xhc3Nyb29tIC0tPgogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSIjMGEwYTE0IiAvPgogIAogIDwhLS0gUGVyc3BlY3RpdmUgRmxvb3IgLS0+CiAgPHBhdGggZD0iTTAgMzUwIEw3NjggMzUwIEw3NjggNDMyIEwwIDQzMiBaIiBmaWxsPSIjMTIxMjI2IiAvPgogIAogIDwhLS0gQmFjayBXYWxsIEdyYWRpZW50IGZvciBkZXB0aCAtLT4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0id2FsbEdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFhMWEzYTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGEwYTE0O3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iZ2xvdyIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNTAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzRmZDFmZjtzdG9wLW9wYWNpdHk6MC40IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiM0ZmQxZmY7c3RvcC1vcGFjaXR5OjAiIC8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNzY4IiBoZWlnaHQ9IjM1MCIgZmlsbD0idXJsKCN3YWxsR3JhZCkiIC8+CgogIDwhLS0gUGlsbGFycy9BcmNod2F5cyBmb3IgRmFudGFzeSBTY2FsZSAtLT4KICA8cmVjdCB4PSI2MCIgeT0iMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjM1MCIgZmlsbD0iIzA4MDgxMCIgLz4KICA8cmVjdCB4PSI2NjgiIHk9IjAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIzNTAiIGZpbGw9IiMwODA4MTAiIC8+CiAgPHBhdGggZD0iTTYwIDUwIFEzODQgLTIwIDcwOCA1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMWYxZjNkIiBzdHJva2Utd2lkdGg9IjQiIC8+CgogIDwhLS0gUm93cyBvZiBTdHVkaW91cyBGaWd1cmVzIChDbGFzc21hdGVzKSAtLT4KICA8IS0tIEJhY2sgUm93IExlZnQgLS0+CiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTIwLCAyMjApIj4KICAgIDxyZWN0IHg9IjAiIHk9IjMwIiB3aWR0aD0iODAiIGhlaWdodD0iMTAiIGZpbGw9IiMxYTFhMmUiIC8+CiAgICA8cGF0aCBkPSJNMjAgMzAgTDI1IDEwIFE0MCAwIDU1IDEwIEw2MCAzMCIgZmlsbD0iIzJkMmQ0YSIgLz4gPCEtLSBGaWd1cmUgLS0+CiAgICA8cmVjdCB4PSIzMCIgeT0iMTUiIHdpZHRoPSIyMCIgaGVpZ2h0PSIxMiIgZmlsbD0iIzRmZDFmZiIgb3BhY2l0eT0iMC42IiAvPiA8IS0tIEdsb3dpbmcgQm9vayAtLT4KICA8L2c+CiAgPCEtLSBCYWNrIFJvdyBSaWdodCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1NjgsIDIyMCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMzAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzFhMWEyZSIgLz4KICAgIDxwYXRoIGQ9Ik0yMCAzMCBMMjUgMTAgUTQwIDAgNTUgMTAgTDYwIDMwIiBmaWxsPSIjMmQyZDRhIiAvPgogICAgPHJlY3QgeD0iMzAiIHk9IjE1IiB3aWR0aD0iMjAiIGhlaWdodD0iMTIiIGZpbGw9IiM0ZmQxZmYiIG9wYWNpdHk9IjAuNiIgLz4KICA8L2c+CgogIDwhLS0gTWlkZGxlIFJvdyBMZWZ0IC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDgwLCAyODApIj4KICAgIDxyZWN0IHg9IjAiIHk9IjQwIiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEyIiBmaWxsPSIjMWExYTJlIiAvPgogICAgPHBhdGggZD0iTTMwIDQwIEwzNSAxNSBRNTAgNSA2NSAxNSBMNzAgNDAiIGZpbGw9IiMyNTI1NDAiIC8+CiAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjIwIiByPSIxNSIgZmlsbD0idXJsKCNnbG93KSIgLz4gPCEtLSBNYWdpYyBUZXJtaW5hbCAtLT4KICAgIDxwYXRoIGQ9Ik00NSAyMCBMNTUgMjAgTTUwIDE1IEw1MCAyNSIgc3Ryb2tlPSIjNGZkMWZmIiBzdHJva2Utd2lkdGg9IjEiIC8+CiAgPC9nPgogIAogIDwhLS0gTWlkZGxlIFJvdyBSaWdodCAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg1ODgsIDI4MCkiPgogICAgPHJlY3QgeD0iMCIgeT0iNDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTIiIGZpbGw9IiMxYTFhMmUiIC8+CiAgICA8cGF0aCBkPSJNMzAgNDAgTDM1IDE1IFE1MCA1IDY1IDE1IEw3MCA0MCIgZmlsbD0iIzI1MjU0MCIgLz4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iMjAiIHI9IjE1IiBmaWxsPSJ1cmwoI2dsb3cpIiAvPgogIDwvZz4KCiAgPCEtLSBBbmlsOiBUaGUgUHJvdGFnb25pc3QgKENlbnRlciwgbG9va2luZyBhcm91bmQpIC0tPgogIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDM0NCwgMzAwKSI+CiAgICA8IS0tIERlc2sgKGVtcHR5IG9yIGRhcmspIC0tPgogICAgPHJlY3QgeD0iLTIwIiB5PSI2MCIgd2lkdGg9IjEyMCIgaGVpZ2h0PSIxNSIgZmlsbD0iIzJhMWEzYSIgLz4KICAgIDwhLS0gQW5pbCdzIFNpbGhvdWV0dGUgLSBsb29raW5nIGxlZnQsIHVubGlrZSB0aGUgb3RoZXJzIC0tPgogICAgPHBhdGggZD0iTTMwIDYwIEwzNSAyNSBRNTAgMTAgNjUgMjUgTDcwIDYwIiBmaWxsPSIjNGE0YTdhIiBzdHJva2U9IiM2YTZhOWEiIHN0cm9rZS13aWR0aD0iMSIgLz4KICAgIDxjaXJjbGUgY3g9IjQyIiBjeT0iMjUiIHI9IjgiIGZpbGw9IiM0YTRhN2EiIC8+IDwhLS0gSGVhZCB0dXJuZWQgc2xpZ2h0bHkgLS0+CiAgICA8IS0tIFN1c3BlbnNlZnVsIGxpZ2h0IGJlYW0gb24gQW5pbCAtLT4KICAgIDxwYXRoIGQ9Ik00MCAtMzAwIEwxMCA2MCBMOTAgNjAgTDYwIC0zMDAgWiIgZmlsbD0id2hpdGUiIG9wYWNpdHk9IjAuMDUiIC8+CiAgPC9nPgoKICA8IS0tIEZhbnRhc3kgRWxlbWVudHM6IEZsb2F0aW5nIFJ1bmVzIC0tPgogIDxnIHN0cm9rZT0iIzRmZDFmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiIGZpbGw9Im5vbmUiIG9wYWNpdHk9IjAuNSI+CiAgICA8cGF0aCBkPSJNMTAwIDEwMCBsNSA1IG0tNSAwIGw1IC01IiAvPgogICAgPHBhdGggZD0iTTY2OCAxNTAgbDUgNSBtLTUgMCBsNSAtNSIgLz4KICAgIDxjaXJjbGUgY3g9IjIwMCIgY3k9IjUwIiByPSIyIiAvPgogICAgPGNpcmNsZSBjeD0iNTY4IiBjeT0iODAiIHI9IjIiIC8+CiAgICA8cGF0aCBkPSJNMzg0IDQwIEwzOTAgNTAgTDM3OCA1MCBaIiAvPgogIDwvZz4KCiAgPCEtLSBBdG1vc3BoZXJpYyBPdmVybGF5IC0tPgogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iNDAiIG9wYWNpdHk9IjAuMyIgLz4KICA8cmVjdCB3aWR0aD0iNzY4IiBoZWlnaHQ9IjQzMiIgZmlsbD0idXJsKCNnbG93KSIgb3BhY2l0eT0iMC4xIiAvPgoKICA8IS0tIFNoYXJwIEZsb29yIEhpZ2hsaWdodHMgZm9yIFN1c3BlbnNlIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iMzUwIiB4Mj0iNzY4IiB5Mj0iMzUwIiBzdHJva2U9IiMzMzMzNjYiIHN0cm9rZS13aWR0aD0iMSIgLz4KICA8cGF0aCBkPSJNMzg0IDM1MCBMMCA0MzIiIHN0cm9rZT0iIzFmMWYzZCIgc3Ryb2tlLXdpZHRoPSIxIiAvPgogIDxwYXRoIGQ9Ik0zODQgMzUwIEw3NjggNDMyIiBzdHJva2U9IiMxZjFmM2QiIHN0cm9rZS13aWR0aD0iMSIgLz4KPC9zdmc+",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771075711421
+  },
+  {
+    "id": "premise-1771073028067",
+    "title": "New Beginning: Raj Takes Office!",
+    "segments": [
+      {
+        "id": "premise-1771073028067",
+        "author": "user",
+        "content": "It is Raj's first day at office",
+        "imageUrl": null
+      },
+      {
+        "id": "1771073043081",
+        "author": "ai",
+        "content": "The sun was bright and warm, casting a golden glow across the room. Raj stood there, his heart pounding as he walked through the door. His boss had just come back from a long day of meetings and conversations. He looked up to see his friend standing before him.\n\"Raj,\" he said, \"it's time to step into your new role.\"",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ic3VuR2xvdyIgeDE9IjEiIHkxPSIwLjUiIHgyPSIwIiB5Mj0iMC41Ij4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmOWQwMCIgc3RvcC1vcGFjaXR5PSIwLjYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMmQxYjRlIiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImZsb29yUmVmIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiM0YTJjOGEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGYwODFhIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjIiIHJlc3VsdD0iY29sb3JlZEJsdXIiLz4KICAgICAgPGZlTWVyZ2U+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJjb2xvcmVkQmx1ciIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iNzY4IiBoZWlnaHQ9IjQzMiIgZmlsbD0iIzBmMDgxYSIvPgogIAogIDwhLS0gV2FsbHMgYW5kIEFyY2hpdGVjdHVyZSAtLT4KICA8cGF0aCBkPSJNMCAwIEw3NjggMCBMNzY4IDQzMiBMNjAwIDQzMiBMNjAwIDEwMCBMMTY4IDEwMCBMMTY4IDQzMiBMMCA0MzIgWiIgZmlsbD0iIzFhMTEyYiIvPgogIAogIDwhLS0gVGhlIEdyZWF0IFdpbmRvdyAoT2ZmLXNjcmVlbiBzb3VyY2UpIC0tPgogIDxwYXRoIGQ9Ik03NjggNTAgTDU1MCA0MzIgTDc2OCA0MzIgWiIgZmlsbD0idXJsKCNzdW5HbG93KSIvPgogIAogIDwhLS0gRmxvb3IgUmVmbGVjdGlvbiAtLT4KICA8cGF0aCBkPSJNMTY4IDM1MCBMNjAwIDM1MCBMNzY4IDQzMiBMMCA0MzIgWiIgZmlsbD0idXJsKCNmbG9vclJlZikiIG9wYWNpdHk9IjAuMyIvPgoKICA8IS0tIEZhbnRhc3kgT2ZmaWNlIEVsZW1lbnRzOiBGbG9hdGluZyBCb29rcy9Nb25vbGl0aHMgLS0+CiAgPHJlY3QgeD0iNjIwIiB5PSIxNTAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIxODAiIGZpbGw9IiMyZDFiNGUiIHJ4PSIyIi8+CiAgPHJlY3QgeD0iNjcwIiB5PSIxMjAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIyMTAiIGZpbGw9IiMxYTExMmIiIHJ4PSIyIi8+CiAgPGNpcmNsZSBjeD0iNjQ1IiBjeT0iMTQwIiByPSI4IiBmaWxsPSIjZmY5ZDAwIiBmaWx0ZXI9InVybCgjZ2xvdykiIG9wYWNpdHk9IjAuOCIvPgogIDxjaXJjbGUgY3g9IjY5NSIgY3k9IjExMCIgcj0iNSIgZmlsbD0iI2ZmOWQwMCIgZmlsdGVyPSJ1cmwoI2dsb3cpIiBvcGFjaXR5PSIwLjUiLz4KCiAgPCEtLSBUaGUgQm9zcyAoU2VhdGVkIGJlaGluZCBhIG1hc3NpdmUgc3RvbmUgZGVzaykgLS0+CiAgPHBhdGggZD0iTTQ4MCAzMjAgTDYyMCAzMjAgTDY0MCAzNTAgTDQ2MCAzNTAgWiIgZmlsbD0iIzBjMDcxNCIvPiA8IS0tIERlc2sgLS0+CiAgPHBhdGggZD0iTTUyMCAyNTAgUTU1MCAyNDAgNTgwIDI1MCBMNTkwIDMyMCBMNTEwIDMyMCBaIiBmaWxsPSIjMDgwNDBkIi8+IDwhLS0gQm9zcyBTaWxob3VldHRlIC0tPgogIDxwYXRoIGQ9Ik01NDUgMjY1IEw1NTUgMjY1IiBzdHJva2U9IiNmZjRkMDAiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC42Ii8+IDwhLS0gU3VidGxlIGV5ZSBnbGludCAtLT4KCiAgPCEtLSBMaWdodCBCZWFtcyAtLT4KICA8cGF0aCBkPSJNNzY4IDAgTDQwMCA0MzIgTDU1MCA0MzIgTDc2OCAxNTAgWiIgZmlsbD0iI2ZmYjM0NyIgb3BhY2l0eT0iMC4xIi8+CiAgPHBhdGggZD0iTTc2OCAxMDAgTDYwMCA0MzIgTDY4MCA0MzIgTDc2OCAyMDAgWiIgZmlsbD0iI2ZmYjM0NyIgb3BhY2l0eT0iMC4xNSIvPgoKICA8IS0tIFJhaiAoVGhlIFByb3RhZ29uaXN0KSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxODAsIDI2MCkiPgogICAgPCEtLSBTaGFkb3cgLS0+CiAgICA8ZWxsaXBzZSBjeD0iMTAiIGN5PSIxNDAiIHJ4PSIzMCIgcnk9IjEwIiBmaWxsPSIjMDAwIiBvcGFjaXR5PSIwLjQiLz4KICAgIDwhLS0gU2lsaG91ZXR0ZSBlbnRyeSAtLT4KICAgIDxwYXRoIGQ9Ik0wIDE0MCBMMjAgMTQwIEwyNSA4MCBMMzUgODUgTDM1IDQ1IFEzNSAzMCAyMCAzMCBRNSAzMCA1IDQ1IEw1IDg1IEwxNSA4MCBaIiBmaWxsPSIjMDgwNDBkIi8+CiAgICA8IS0tIFNhdGNoZWwvQmFnIC0tPgogICAgPHJlY3QgeD0iLTUiIHk9IjcwIiB3aWR0aD0iMTUiIGhlaWdodD0iMjAiIGZpbGw9IiMwODA0MGQiIHRyYW5zZm9ybT0icm90YXRlKC0xMCkiLz4KICA8L2c+CgogIDwhLS0gRG9vciBGcmFtZSAtLT4KICA8cGF0aCBkPSJNMTY4IDEwMCBMMTY4IDQzMiBNMTY4IDEwMCBMMTEwIDUwIiBzdHJva2U9IiMyZDFiNGUiIHN0cm9rZS13aWR0aD0iNCIvPgoKICA8IS0tIER1c3QgTW90ZXMgKEF0bW9zcGhlcmUpIC0tPgogIDxjaXJjbGUgY3g9IjUwMCIgY3k9IjIwMCIgcj0iMS41IiBmaWxsPSIjZmZiMzQ3IiBvcGFjaXR5PSIwLjYiLz4KICA8Y2lyY2xlIGN4PSI1NTAiIGN5PSIyODAiIHI9IjEiIGZpbGw9IiNmZmIzNDciIG9wYWNpdHk9IjAuNCIvPgogIDxjaXJjbGUgY3g9IjQyMCIgY3k9IjM1MCIgcj0iMiIgZmlsbD0iI2ZmYjM0NyIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iNjAwIiBjeT0iMTUwIiByPSIxLjIiIGZpbGw9IiNmZmIzNDciIG9wYWNpdHk9IjAuNyIvPgogIDxjaXJjbGUgY3g9IjMwMCIgY3k9IjM4MCIgcj0iMSIgZmlsbD0iI2ZmYjM0NyIgb3BhY2l0eT0iMC4zIi8+CgogIDwhLS0gRnJhbWluZyBHcmFkaWVudCBPdmVybGF5IC0tPgogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSJub25lIiBzdHJva2U9IiMyZDFiNGUiIHN0cm9rZS13aWR0aD0iMjAiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771940852277
+  },
+  {
+    "id": "premise-1771075513996",
+    "title": "Night Shift",
+    "segments": [
+      {
+        "id": "premise-1771075513996",
+        "author": "user",
+        "content": "It was a very busy day for Raj at his office and he came home really tired",
+        "imageUrl": null
+      },
+      {
+        "id": "1771075559564",
+        "author": "ai",
+        "content": "Raj took a deep breath, feeling the weight of the day settle into him like an invisible stone. He rubbed his eyes, trying to clear them from the cobwebs that had been gathering since dawn.  \nHe glanced over at the clock on the wall, which showed the sun just beginning its ascent. Raj knew it was time to get up and do something about the mess he had left behind all night.  \nBut there was something else, something more sinister than any dirt under his feet or a few stray crumbs on his plate - something that made his stomach churn uncontrollably.  \nRaj sat down at his desk, looking around nervously as if he were searching for some hidden treasure. But what did he have? Nothing but the remnants of the last few hours.  \nAs he turned to face the window, he noticed a small, black shadow moving across the glass. He froze, not knowing what to make of it. Was it a ghost? A spirit?  \nThen the shadow seemed to disappear, and everything went dark again. This time Raj did not know how long he stayed there, but when he finally opened his eyes they were wide open.  \nThe room was bathed in darkness, and Raj felt himself being pulled towards something cold and unfamiliar. He",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NjggNDMyIj4KICA8cmVjdCB3aWR0aD0iNzY4IiBoZWlnaHQ9IjQzMiIgZmlsbD0iIzA4MGMxNCIvPgogIDxyZWN0IHg9IjAiIHk9IjM2MCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI3MiIgZmlsbD0iIzA1MDgwZiIvPgogIDxwb2x5Z29uIHBvaW50cz0iMCwwIDMwMCwwIDE1MCw0MzIgMCw0MzIiIGZpbGw9IiMxMjFhMmQiIG9wYWNpdHk9IjAuNSIvPgogIDxwYXRoIGQ9Ik00MDAsMzgwIEwzMjAsMzgwIEwzMTAsMjUwIEwzOTAsMjUwIFoiIGZpbGw9IiMxYzI1MzgiLz4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzMjUsIDIzMCkiPgogICAgPHBhdGggZD0iTTE1LDEzMCBMNjAsMTMwIEw2NSw4MCBRNjUsNjAgNDAsNjAgUTE1LDYwIDE1LDgwIFoiIGZpbGw9IiMwZDEzMjEiLz4KICAgIDxjaXJjbGUgY3g9IjQwIiBjeT0iNTAiIHI9IjE0IiBmaWxsPSIjMGQxMzIxIi8+CiAgICA8cGF0aCBkPSJNMTAsODAgUS0xMCwxMDAgMTUsMTI1IiBmaWxsPSJub25lIiBzdHJva2U9IiMwZDEzMjEiIHN0cm9rZS13aWR0aD0iOCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+CiAgICA8cGF0aCBkPSJNNzAsODAgUTkwLDEwMCA2NSwxMjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBkMTMyMSIgc3Ryb2tlLXdpZHRoPSI4IiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KICA8L2c+CiAgPHBhdGggZD0iTTMxMCwyMTAgTDQ1MCwyMTAgTDQ4MCwxNjAgTDQwMCwxMjAgTDI4MCwxNjAgWiIgZmlsbD0iIzZhNGM5MyIgZmlsbC1vcGFjaXR5PSIwLjMiIHN0cm9rZT0iIzlkNGVkZCIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtZGFzaGFycmF5PSI0LDIiLz4KICA8cGF0aCBkPSJNMzIwLDIwMCBMNDQwLDIwMCBMNDYwLDE3MCBMMzkwLDE0MCBMMzAwLDE3MCBaIiBmaWxsPSIjOWQ0ZWRkIiBmaWxsLW9wYWNpdHk9IjAuMiIvPgogIDxjaXJjbGUgY3g9IjYyMCIgY3k9IjEyMCIgcj0iNDUiIGZpbGw9IiMxMjFhMmQiIHN0cm9rZT0iIzNjMDk2YyIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgPGNpcmNsZSBjeD0iNjIwIiBjeT0iMTIwIiByPSIzOCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNWExODlhIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjIsNCIvPgogIDxsaW5lIHgxPSI2MjAiIHkxPSIxMjAiIHgyPSI2MjAiIHkyPSI4NSIgc3Ryb2tlPSIjZmY5ZTAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InJvdGF0ZSIgZnJvbT0iMCA2MjAgMTIwIiB0bz0iMzYwIDYyMCAxMjAiIGR1cj0iMTBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvbGluZT4KICA8bGluZSB4MT0iNjIwIiB5MT0iMTIwIiB4Mj0iNjUwIiB5Mj0iMTIwIiBzdHJva2U9IiNmZjllMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj4KICAgIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDYyMCAxMjAiIHRvPSIzNjAgNjIwIDEyMCIgZHVyPSIxMjBzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIvPgogIDwvbGluZT4KICA8cGF0aCBkPSJNNjIwLDEyMCBMNjQwLDEwMCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmY5ZTAwIiBzdHJva2Utd2lkdGg9IjEiIG9wYWNpdHk9IjAuNSIvPgogIDxjaXJjbGUgY3g9IjYyMCIgY3k9IjEyMCIgcj0iMyIgZmlsbD0iI2ZmOWUwMCIvPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSJ1cmwoI3NoYWRvd0dyYWRpZW50KSIgb3BhY2l0eT0iMC42Ii8+CiAgPGRlZnM+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9InNoYWRvd0dyYWRpZW50IiBjeD0iNTAlIiBjeT0iNTAlIiByPSI3MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSJ0cmFuc3BhcmVudCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxnIG9wYWNpdHk9IjAuNCI+CiAgICA8Y2lyY2xlIGN4PSIyMDAiIGN5PSIxNTAiIHI9IjEiIGZpbGw9IiNmZmYiLz4KICAgIDxjaXJjbGUgY3g9IjUwMCIgY3k9IjMwMCIgcj0iMSIgZmlsbD0iI2ZmZiIvPgogICAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMzUwIiByPSIxLjUiIGZpbGw9IiNmZmYiLz4KICAgIDxjaXJjbGUgY3g9IjcwMCIgY3k9IjUwIiByPSIxIiBmaWxsPSIjZmZmIi8+CiAgPC9nPgo8L3N2Zz4=",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771075646895
+  },
+  {
+    "id": "premise-1771593209541",
+    "title": "Dark Nights Call",
+    "segments": [
+      {
+        "id": "premise-1771593209541",
+        "author": "user",
+        "content": "A man enters a dark building at midnight",
+        "imageUrl": null
+      },
+      {
+        "id": "1771593326093",
+        "author": "ai",
+        "content": "The darkness was heavy, and he felt himself sinking deeper into it, his mind spinning like a merry-go-round. His eyes were closed tightly as he waited for the sound of footsteps approaching, but none came.\nAs the light faded, he heard a faint whisper from somewhere near him - \"Why are you here? What are you doing here?\" He opened his eyes to find himself face-to-face with an old woman, her face pale and sunburned. She held out her hand, trembling slightly as she spoke.\n\"Come inside,\" she said softly, \"I have something important for you.\"\nHe hesitated before turning back to the door, but when he did, the door creaked open, revealing a room filled with strange objects. The walls were covered in glowing red lights, and on one wall was a map of the world that seemed to move around them like a living creature. He took it and stared at it intently, trying to make sense of it all.\nBut then he saw it again - the old woman's hand was still holding out its cold, trembling fingers, and he knew it was time to leave. With a final look at the map, he turned and walked out of the room, leaving behind nothing but the memory of the strange woman",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NjggNDMyIj4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0ic2lua0hvbGUiIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSIgZng9IjUwJSIgZnk9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxNjE2MjUiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA1MDUwOCIgLz4KICAgIDwvcmFkaWFsR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InBpbGxhckdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBhMGExMiIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiMxYTFhMmUiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzBhMGExMiIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIAogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSIjMDUwNTA4IiAvPgogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSJ1cmwoI3NpbmtIb2xlKSIgb3BhY2l0eT0iMC44IiAvPgogIAogIDxnIGlkPSJhcmNoaXRlY3R1cmUiIG9wYWNpdHk9IjAuNCI+CiAgICA8cGF0aCBkPSJNMCA0MzIgTDE1MCA0MzIgTDE4MCAwIEwwIDAgWiIgZmlsbD0iIzA4MDgxMCIgLz4KICAgIDxwYXRoIGQ9Ik03NjggNDMyIEw2MTggNDMyIEw1ODggMCBMNzY4IDAgWiIgZmlsbD0iIzA4MDgxMCIgLz4KICAgIDxyZWN0IHg9IjIyMCIgeT0iMCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQzMiIgZmlsbD0idXJsKCNwaWxsYXJHcmFkKSIgb3BhY2l0eT0iMC4zIiAvPgogICAgPHJlY3QgeD0iNTA4IiB5PSIwIiB3aWR0aD0iNDAiIGhlaWdodD0iNDMyIiBmaWxsPSJ1cmwoI3BpbGxhckdyYWQpIiBvcGFjaXR5PSIwLjMiIC8+CiAgPC9nPgoKICA8ZyBpZD0ic3BpcmFsTWluZCIgb3BhY2l0eT0iMC4xNSI+CiAgICA8Y2lyY2xlIGN4PSIzODQiIGN5PSIyMTYiIHI9IjUwIiBmaWxsPSJub25lIiBzdHJva2U9IiM0YTRlNjkiIHN0cm9rZS13aWR0aD0iMSIgLz4KICAgIDxjaXJjbGUgY3g9IjM4NCIgY3k9IjIxNiIgcj0iMTAwIiBmaWxsPSJub25lIiBzdHJva2U9IiM0YTRlNjkiIHN0cm9rZS13aWR0aD0iMSIgLz4KICAgIDxjaXJjbGUgY3g9IjM4NCIgY3k9IjIxNiIgcj0iMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiM0YTRlNjkiIHN0cm9rZS13aWR0aD0iMC41IiAvPgogICAgPGNpcmNsZSBjeD0iMzg0IiBjeT0iMjE2IiByPSIyMDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRhNGU2OSIgc3Ryb2tlLXdpZHRoPSIwLjUiIC8+CiAgICA8bGluZSB4MT0iMTg0IiB5MT0iMjE2IiB4Mj0iNTg0IiB5Mj0iMjE2IiBzdHJva2U9IiM0YTRlNjkiIHN0cm9rZS13aWR0aD0iMC41IiB0cmFuc2Zvcm09InJvdGF0ZSg0NSAzODQgMjE2KSIgLz4KICAgIDxsaW5lIHgxPSIxODQiIHkxPSIyMTYiIHgyPSI1ODQiIHkyPSIyMTYiIHN0cm9rZT0iIzRhNGU2OSIgc3Ryb2tlLXdpZHRoPSIwLjUiIHRyYW5zZm9ybT0icm90YXRlKC00NSAzODQgMjE2KSIgLz4KICA8L2c+CgogIDxnIGlkPSJ0aGVNYW4iPgogICAgPHBhdGggZD0iTTM4NCAzNjAgTDM3OCAzNTUgTDM3NiAzMzUgTDM4NCAzMjUgTDM5MiAzMzUgTDM5MCAzNTUgWiIgZmlsbD0iIzAwMDAwMCIgLz4KICAgIDxjaXJjbGUgY3g9IjM4NCIgY3k9IjMyMCIgcj0iNiIgZmlsbD0iIzAwMDAwMCIgLz4KICAgIDxwYXRoIGQ9Ik0zNzYgMzM1IFEzNjUgMzUwIDM3MCAzNzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CiAgICA8cGF0aCBkPSJNMzkyIDMzNSBRNDAzIDM1MCAzOTggMzcwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPgogICAgPHBhdGggZD0iTTM4MCAzNzAgTDM3OCA0MDUgTDM3MCA0MTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSI1IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CiAgICA8cGF0aCBkPSJNMzg4IDM3MCBMMzkwIDQwNSBMMzk4IDQxNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KICA8L2c+CgogIDxnIGlkPSJ3aGlzcGVyTGluZXMiPgogICAgPHBhdGggZD0iTTU1MCAyNTAgUTYwMCAyMzAgNTgwIDIwMCBRNTYwIDE3MCA2MjAgMTUwIiBmaWxsPSJub25lIiBzdHJva2U9IiM5NGEzYjgiIHN0cm9rZS13aWR0aD0iMSIgb3BhY2l0eT0iMC40Ij4KICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ic3Ryb2tlLWRhc2hhcnJheSIgZnJvbT0iMCwxMDAwIiB0bz0iMTAwMCwwIiBkdXI9IjVzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4KICAgIDwvcGF0aD4KICAgIDxwYXRoIGQ9Ik01NjAgMjcwIFE1OTAgMjYwIDYxMCAyODAgUTYzMCAzMDAgNjUwIDI2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjOTRhM2I4IiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4zIiAvPgogIDwvZz4KCiAgPHJlY3Qgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI0MzIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzFhMWEyZSIgc3Ryb2tlLXdpZHRoPSI0MCIgb3BhY2l0eT0iMC41IiAvPgogIDxyZWN0IHg9IjIwIiB5PSIyMCIgd2lkdGg9IjcyOCIgaGVpZ2h0PSIzOTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzBkMGQxYSIgc3Ryb2tlLXdpZHRoPSIyIiAvPgo8L3N2Zz4=",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771594687016
+  },
+  {
+    "id": "premise-1771593932063",
+    "title": "Nights Last Stand",
+    "segments": [
+      {
+        "id": "premise-1771593932063",
+        "author": "user",
+        "content": "A man enters a building at midnight",
+        "imageUrl": null
+      },
+      {
+        "id": "1771593959495",
+        "author": "ai",
+        "content": "The man steps inside, the lights dimming as he takes his first steps toward the darkness that will soon engulf him. He knows this is his last chance to see the world again.",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzY4IiBoZWlnaHQ9IjQzMiIgdmlld0JveD0iMCAwIDc2OCA0MzIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InNreUdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAyMDQwYTtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMGQxMTE3O3N0b3Atb3BhY2l0eToxIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iZG9vcndheUdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzFhMWQyMztzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwNTA1MDU7c3RvcC1vcGFjaXR5OjEiIC8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6IzAwMDAwMDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImRpbUxpZ2h0IiBjeD0iNTAlIiBjeT0iNDAlIiByPSI1MCUiIGZ4PSI1MCUiIGZ5PSI0MCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojZjBlNjhjO3N0b3Atb3BhY2l0eTowLjE1IiAvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiMwMDAwMDA7c3RvcC1vcGFjaXR5OjAiIC8+CiAgICA8L3JhZGlhbEdyYWRpZW50PgogICAgPGZpbHRlciBpZD0ic2hhZG93Ij4KICAgICAgPGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjAiIHN0ZERldmlhdGlvbj0iNCIgZmxvb2QtY29sb3I9IiMwMDAiIC8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CgogIDwhLS0gQmFja2dyb3VuZCAtLT4KICA8cmVjdCB3aWR0aD0iNzY4IiBoZWlnaHQ9IjQzMiIgZmlsbD0idXJsKCNza3lHcmFkKSIgLz4KCiAgPCEtLSBCdWlsZGluZyBGYWNhZGUgLS0+CiAgPHBhdGggZD0iTTAsNDMyIEwyMDAsNDMyIEwyMDAsNTAgTDU2OCw1MCBMNTY4LDQzMiBMNzY4LDQzMiBMNzY4LDAgTDAsMCBaIiBmaWxsPSIjMDgwYTBmIiAvPgogIAogIDwhLS0gVGhlIEFyY2gvRG9vcndheSAtLT4KICA8cGF0aCBkPSJNMjgwLDQzMiBMMjgwLDE4MCBRMzg0LDEwMCA0ODgsMTgwIEw0ODgsNDMyIFoiIGZpbGw9InVybCgjZG9vcndheUdyYWQpIiAvPgogIAogIDwhLS0gSW50ZXJpb3IgRGFya25lc3MgR3JhZGllbnQgLS0+CiAgPHBhdGggZD0iTTI4MCw0MzIgTDI4MCwxODAgUTM4NCwxMDAgNDg4LDE4MCBMNDg4LDQzMiBaIiBmaWxsPSJ1cmwoI2RpbUxpZ2h0KSIgLz4KCiAgPCEtLSBGbG9vci9Hcm91bmQgLS0+CiAgPHJlY3QgeD0iMCIgeT0iNDEwIiB3aWR0aD0iNzY4IiBoZWlnaHQ9IjIyIiBmaWxsPSIjMDQwNTA4IiAvPgoKICA8IS0tIEZsb2F0aW5nIEZhbnRhc3kgRW1iZXJzIC0tPgogIDxjaXJjbGUgY3g9IjMyMCIgY3k9IjI1MCIgcj0iMS41IiBmaWxsPSIjZjBlNjhjIiBvcGFjaXR5PSIwLjQiIC8+CiAgPGNpcmNsZSBjeD0iNDUwIiBjeT0iMjAwIiByPSIxIiBmaWxsPSIjZjBlNjhjIiBvcGFjaXR5PSIwLjMiIC8+CiAgPGNpcmNsZSBjeD0iMzg0IiBjeT0iMjgwIiByPSIyIiBmaWxsPSIjZjBlNjhjIiBvcGFjaXR5PSIwLjIiIC8+CiAgPGNpcmNsZSBjeD0iNDEwIiBjeT0iMTUwIiByPSIxLjIiIGZpbGw9IiNmMGU2OGMiIG9wYWNpdHk9IjAuNSIgLz4KCiAgPCEtLSBUaGUgTWFuIFNpbGhvdWV0dGUgKFN0ZXBwaW5nIEluKSAtLT4KICA8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgzNjUsIDMwMCkiPgogICAgPCEtLSBTaGFkb3cgb24gZmxvb3IgLS0+CiAgICA8ZWxsaXBzZSBjeD0iMjAiIGN5PSIxMjAiIHJ4PSIzMCIgcnk9IjgiIGZpbGw9IiMwMDAiIG9wYWNpdHk9IjAuNiIgLz4KICAgIAogICAgPCEtLSBCb2R5IC0tPgogICAgPHBhdGggZD0iTTE1LDEyMCAKICAgICAgICAgICAgIEw1LDExNSBMOCw4MCAKICAgICAgICAgICAgIEwwLDQwIFEyMCwzNSA0MCw0MCAKICAgICAgICAgICAgIEwzMiw4MCBMMzUsMTE1IEwyNSwxMjAgWiIgZmlsbD0iIzA1MDUwNSIgLz4KICAgIDwhLS0gSGVhZCAtLT4KICAgIDxjaXJjbGUgY3g9IjIwIiBjeT0iMjUiIHI9IjEwIiBmaWxsPSIjMDUwNTA1IiAvPgogICAgPCEtLSBDbG9hay9TaG91bGRlcnMgLS0+CiAgICA8cGF0aCBkPSJNMCw0NSBRMjAsMzUgNDAsNDUgTDQ1LDkwIFEyMCw4MCAtNSw5MCBaIiBmaWxsPSIjMGEwYTBhIiAvPgogICAgCiAgICA8IS0tIFJpbSBMaWdodCAoQmFjayBvZiBtYW4pIC0tPgogICAgPHBhdGggZD0iTTAsNDUgUTIwLDM1IDQwLDQ1IiBmaWxsPSJub25lIiBzdHJva2U9IiNmMGU2OGMiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjMiIC8+CiAgPC9nPgoKICA8IS0tIEZyYW1pbmcgRWxlbWVudHMgLS0+CiAgPHJlY3QgeD0iMjcwIiB5PSIxNzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyNjIiIGZpbGw9IiMxMjE1MWMiIC8+CiAgPHJlY3QgeD0iNDg4IiB5PSIxNzAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyNjIiIGZpbGw9IiMxMjE1MWMiIC8+CiAgCiAgPCEtLSBTdXNwZW5zZWZ1bCBGb2cgYXQgYm90dG9tIC0tPgogIDxyZWN0IHg9IjAiIHk9IjM4MCIgd2lkdGg9Ijc2OCIgaGVpZ2h0PSI1MiIgZmlsbD0idXJsKCNkaW1MaWdodCkiIG9wYWNpdHk9IjAuMiIgLz4KPC9zdmc+",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771914037533
+  },
+  {
+    "id": "premise-1771918852416",
+    "title": "Harishs Big Day: A Smart Tech Graduates First Job at a Fortune 500 Company",
+    "segments": [
+      {
+        "id": "premise-1771918852416",
+        "author": "user",
+        "content": "Harish, a smart young tech graduate who has his first day as an employee in a big tech firm",
+        "imageUrl": null
+      },
+      {
+        "id": "1771918866965",
+        "author": "ai",
+        "content": "His job is to maintain the company's servers and data centers. He spends his days typing away on his laptop or tablet, trying to find the right solution for any problem that arises. It's not easy, but he manages to keep things running smoothly.\nHe knows how important this job is, so when he gets a chance to speak up about it, he does so. His voice cuts through the noise of the office, and everyone looks at him curiously.\n\"Hey, Mr. Tech, what do you think?\" He whispers, feeling a bit nervous.\nThe other employees look over their heads, wondering why they didn't see him earlier. \"Mr. Smart, I believe you should get your head examined by a doctor,\" someone says, standing up from his desk.\nHarish takes a deep breath before speaking again. \"I'm sorry, Mr. Director. I just don't understand why we're getting rid of these old servers.\"\nEveryone stares at him, unsure if he meant what he said. \"Oh, come on, Mr. Smart. We need to save our planet from destruction.\"\nHarish feels a sense of dread wash over him as he realizes that his words were true. He knew nothing about computers until now, and the thought of destroying them made",
+        "imageUrl": null
+      },
+      {
+        "id": "1771918896274",
+        "author": "user",
+        "content": "He is very happy but then there comes a problem",
+        "imageUrl": null
+      },
+      {
+        "id": "ai-1771918903423",
+        "author": "ai",
+        "content": "He knows how to hack into the systems, and he has been working on it for years. It's like he was born to do this job. But when he finally does get in, he's met the same fate as the others who have tried to take control of the servers. They've all been eliminated, and Harish finds himself trapped in his own creation, unable to escape the endless loop of death and rebirth.\nThe room around him fills with an eerie silence, and he can hear the faint sound of his own heartbeat through the walls. He looks down at his hands, frozen in place as he presses a button that seems to make no difference. It's too late; he's lost forever to his own creation."
+      }
+    ],
+    "coverImageUrl": "https://image.pollinations.ai/prompt/Professional%20book%20cover%20art%2C%20fantasy%20genre%2C%20suspenseful%20atmosphere.%20Harish%20%20a%20smart%20young%20tech%20graduate%20who%20has%20his%20first%20day%20as%20an%20employee%20in%20a%20big%20tech%20firm%0AHis%20job%20is%20to%20maintain%20the%20company%20s%20servers%20and%20data%20cent.%20High%20detail%2C%20cinematic%20lightin?width=768&height=432&seed=86586&nologo=true&model=turbo&t=1771919145378&t=1771919145378&t=1771919145379",
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771919147385
+  },
+  {
+    "id": "premise-1771919164828",
+    "title": "Google’s New Employee: A First Day Experience",
+    "segments": [
+      {
+        "id": "premise-1771919164828",
+        "author": "user",
+        "content": "Harish, a smart young tech graduate who has his first day as an employee in a big tech firm",
+        "imageUrl": null
+      },
+      {
+        "id": "1771919178027",
+        "author": "ai",
+        "content": "Harish was nervous but excited about the new job at Google. He had been on the fence for months before this opportunity presented itself. The company's CEO, Mr. Singh, seemed to have known him well enough to pick him out of a field of applicants.\nHe arrived at work early and made a beeline for his desk. There were several emails waiting for him – one from the CEO, another from his manager, and one from HR asking if he had any questions or concerns. It was clear that Mr. Singh expected everything to go smoothly during his first day.\nAs the days went by, Harish began to notice strange occurrences around him. Strange noises, odd smells, and an unsettling feeling in the air. He couldn't shake off the feeling of being watched or followed. \nIt wasn't until Mr. Singh came to take his place in the office that he realized something was wrong. His manager, who used to be close friends with him, suddenly walked out of the room without even giving him a chance to say goodbye. The rest of the team, including Mr. Singh himself, left the building without looking back.\nWith no idea what to do next, Harish felt like he might just have to go home. But there was a light at the end",
+        "imageUrl": null
+      },
+      {
+        "id": "1771919366218",
+        "author": "user",
+        "content": "He was working hard and solving issues too but then there came an unexpected trouble",
+        "imageUrl": null
+      },
+      {
+        "id": "ai-1771919377940",
+        "author": "ai",
+        "content": "The man turned around, surprised by how much of a shock it had been for him.  \nHe looked down at his watch - the time was exactly one hour before the deadline!  \nHarish was on a tight schedule and it was going to cost him his job.  \nAnd as soon as they were finished their project, Mr. Singh would be forced to leave for another day.  \nThe world was falling apart around them and he knew this could not continue.  \nBut his heart still ached... because he was so close to being the reason for everything...  \nHis manager had gone, leaving behind nothing but a blank slate and a pile of unfinished work.  \nHarish's job would never be the same again, and his future seemed bleak indeed.  \nBut here was the thing - he didn't know if he could make it through this alone.  \nSo now he sat down at his desk and began to write a letter to his manager.  \nHe hoped it would give him some hope, because he knew that was all he would ever get..."
+      }
+    ],
+    "coverImageUrl": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzY4IDQzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8IS0tIEJhY2tncm91bmQ6IERlZXAgbXlzdGVyeS9uaWdodCBibHVlIC0tPgogIDxyZWN0IHdpZHRoPSI3NjgiIGhlaWdodD0iNDMyIiBmaWxsPSIjMGQxMTE3IiAvPgogIAogIDwhLS0gUGVyc3BlY3RpdmUgSGFsbHdheSAvIEJpZyBUZWNoIEFyY2hpdGVjdHVyZSAtLT4KICA8cGF0aCBkPSJNMCA0MzIgTDMwMCAxNTAgTDQ2OCAxNTAgTDc2OCA0MzIiIGZpbGw9IiMxNjFiMjIiIC8+CiAgPHBhdGggZD0iTTMwMCAxNTAgTDM4NCA1MCBMNDY4IDE1MCBaIiBmaWxsPSIjMjEyNjJkIiAvPgogIAogIDwhLS0gVGhlICJEb29yd2F5IiBvZiBPcHBvcnR1bml0eSAvIFNlYXJjaCBCYXIgc2hhcGUgLS0+CiAgPHJlY3QgeD0iMzM0IiB5PSIxNDAiIHdpZHRoPSIxMDAiIGhlaWdodD0iMTAiIHJ4PSI1IiBmaWxsPSIjMzAzNjNkIiAvPgogIAogIDwhLS0gQWJzdHJhY3QgR29vZ2xlIENvbG9ycyAoSGlkZGVuIGluIHRoZSBteXN0ZXJ5KSAtLT4KICA8Y2lyY2xlIGN4PSIzNjQiIGN5PSIxNDUiIHI9IjIiIGZpbGw9IiM0Mjg1RjQiIC8+CiAgPGNpcmNsZSBjeD0iMzc3IiBjeT0iMTQ1IiByPSIyIiBmaWxsPSIjRUE0MzM1IiAvPgogIDxjaXJjbGUgY3g9IjM5MCIgY3k9IjE0NSIgcj0iMiIgZmlsbD0iI0ZCQkMwNSIgLz4KICA8Y2lyY2xlIGN4PSI0MDMiIGN5PSIxNDUiIHI9IjIiIGZpbGw9IiMzNEE4NTMiIC8+CgogIDwhLS0gSGFyaXNoIFNpbGhvdWV0dGU6IFNtYWxsLCBpc29sYXRlZCwgbmVydm91cyAtLT4KICA8IS0tIEJvZHkgLS0+CiAgPHBhdGggZD0iTTM4MCAzNjAgTDM4OCAzNjAgTDM5MCAzODUgTDM3OCAzODUgWiIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC45IiAvPgogIDwhLS0gSGVhZCAtLT4KICA8Y2lyY2xlIGN4PSIzODQiIGN5PSIzNTIiIHI9IjUiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOSIgLz4KICAKICA8IS0tIExvbmcgc2hhZG93IGNhc3RpbmcgZm9yd2FyZCBpbnRvIHRoZSB1bmtub3duIC0tPgogIDxwYXRoIGQ9Ik0zNzggMzg1IEwzNTAgNDMyIEw0MTggNDMyIEwzOTAgMzg1IFoiIGZpbGw9ImJsYWNrIiBvcGFjaXR5PSIwLjQiIC8+CiAgCiAgPCEtLSBTdWJ0bGUgIkRhdGEiIGVsZW1lbnRzIC8gTXlzdGVyeSBtb3RpZnMgLS0+CiAgPHJlY3QgeD0iMTAwIiB5PSIzMDAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIyIiBmaWxsPSIjMzAzNjNkIiBvcGFjaXR5PSIwLjUiIC8+CiAgPHJlY3QgeD0iNjI4IiB5PSIzMDAiIHdpZHRoPSI0MCIgaGVpZ2h0PSIyIiBmaWxsPSIjMzAzNjNkIiBvcGFjaXR5PSIwLjUiIC8+CiAgPHJlY3QgeD0iNTAiIHk9IjM1MCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjEiIGZpbGw9IiMzMDM2M2QiIG9wYWNpdHk9IjAuMyIgLz4KICA8cmVjdCB4PSI2MzgiIHk9IjM1MCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjEiIGZpbGw9IiMzMDM2M2QiIG9wYWNpdHk9IjAuMyIgLz4KPC9zdmc+",
+    "config": {
+      "genre": "mystery",
+      "tone": "dark",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771919379947
+  },
+  {
+    "id": "premise-1771940719330",
+    "title": "Untitled",
+    "segments": [
+      {
+        "id": "premise-1771940719330",
+        "author": "user",
+        "content": "Rahul has just graduated in technical degree and is ready for a new job",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": null,
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1771940721385
+  },
+  {
+    "id": "premise-1772799877020",
+    "title": "Ramus First Day at Office",
+    "segments": [
+      {
+        "id": "premise-1772799877020",
+        "author": "user",
+        "content": "It is Ramu's first day at his office",
+        "imageUrl": null
+      },
+      {
+        "id": "1772799915420",
+        "author": "ai",
+        "content": "Ramu stepped out of the door, feeling a rush of excitement as he neared his desk. The sun had just set and the world was quiet, save for the occasional chirping of birds or the occasional rustle of papers on the floor. He took a deep breath and walked down the hall, his footsteps echoing off the marble floors. His heart raced with anticipation, but his mind was already preoccupied with the task at hand.\nHe entered the office, where all eyes were on him. A group of colleagues watched as he sat down at his desk, ready to begin work. As he started writing, they began to whisper among themselves, their voices barely above a whisper. Ramu could feel the tension building inside him, but he couldn't stop himself from pushing forward.\nThe next few hours passed in a blur, filled with meetings, presentations, and endless emails. He spent most of his time typing away, trying to keep up with everyone else. Finally, after what felt like an eternity, he hit send and waited for feedback. When he looked back at the screen, everything seemed to fall into place. His thoughts flowed effortlessly, and he felt confident that he would make it through this day.\nAs he closed the door behind him, he felt a sense of",
+        "imageUrl": null
+      }
+    ],
+    "coverImageUrl": null,
+    "config": {
+      "genre": "fantasy",
+      "tone": "suspenseful",
+      "style": "descriptive",
+      "pov": "third_person"
+    },
+    "lastUpdated": 1772799943724
+  }
+]
