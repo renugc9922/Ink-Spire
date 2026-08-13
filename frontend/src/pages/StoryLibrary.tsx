@@ -4,7 +4,7 @@ import { Book, Plus, Calendar, ChevronRight, Search } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { Button } from '../components/ui/Button';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+const API_URL = import.meta.env.VITE_API_URL;
 
 interface StorySummary {
     id: string;

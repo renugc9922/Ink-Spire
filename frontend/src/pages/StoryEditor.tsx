@@ -6,8 +6,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 // @ts-ignore
 import html2pdf from 'html2pdf.js';
 
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
-
 interface StorySegment {
     id: string;
     author: 'user' | 'ai' | 'system';
@@ -103,7 +101,7 @@ const StoryEditor: React.FC = () => {
                 config: storyConfig
             };
 
-            const res = await fetch(`${API_URL} /api/stories`, {
+            const res = await fetch(`${API_URL}/api/stories`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(payload)
@@ -496,3 +494,7 @@ const EditableSegment = ({ segment, onUpdate }: { segment: StorySegment, onUpdat
 };
 
 export default StoryEditor;
+
+const API_URL = import.meta.env.VITE_API_URL;
+
+console.log("API_URL =", API_URL);

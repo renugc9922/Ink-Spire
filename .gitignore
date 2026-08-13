@@ -2,6 +2,8 @@
 .env
 .env.*
 !.env.example
+!frontend/.env
+!frontend/.env.production
 
 # Dependency folders
 **/node_modules/

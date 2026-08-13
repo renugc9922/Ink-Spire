@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: inkspire-backend
+    env: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/stories
+    autoDeploy: true
+    envVars:
+      - key: FRONTEND_URL
+        value: https://ink-spire-hazel.vercel.app
+      - key: USE_LOCAL_LLM
+        value: false
+      - key: LOCAL_LLM_URL
+        value: http://localhost:5000/generate
+      - key: GEMINI_API_KEY
+        sync: false
